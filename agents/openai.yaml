@@ -1,0 +1,4 @@
+interface:
+  display_name: "露营天气检查"
+  short_description: "按营地五步法判断露营天气风险"
+  default_prompt: "使用 $camping-weather-check 检查这个露营地和日期是否适合露营。"
